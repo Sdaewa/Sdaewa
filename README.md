@@ -1,6 +1,3 @@
-<div align="center">
-<img width="100%" height = "150%" src="" alt="cover" />
-</div>
 
 <h1> Hello Fellow < Developers/ >! 
 <p align='center'>
@@ -8,13 +5,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sdaewa.Sdaewa)
 
 </p>
-<div size='20px'> Hi! My name is Luis. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Luis. 
 </div>
 
 <h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently working on my Node.js and overall JavaScript skills 
 
@@ -25,14 +19,23 @@
 - 💬 Talk to me about All things JavaScript, opensource projects wherever it is hardware or software 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
+
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
+
 
 
 <h2> Connect with me </h2>
