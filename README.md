@@ -21,14 +21,6 @@ I also have an interest in ethical hacking, prototyping electronics and 3D print
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
 
 
-
-<h3> 📊 This week I spent my time on </h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@LuisR&compact=True"/>
-</a>
-<br>
-
-
 <h3> 📈 My GitHub Stats </h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
