@@ -1,5 +1,5 @@
 
-<h3> Oh, hey there! My name is Luis Ramirez ✌🏻</h3>
+<h3> Oh, hey there! 👋🏻  My name is Luis Ramirez </h3>
 
 <p>I have always been interested in technology, especially its under-the-hood workings. When I was young, I liked to take things apart, to try putting them back together. I am now interested in applying that same curiosity and problem-solving mindset to software engineering.
 I also have an interest in ethical hacking, prototyping electronics and 3D printing</p>
@@ -10,7 +10,7 @@ I also have an interest in ethical hacking, prototyping electronics and 3D print
 - 👯 I’m looking to collaborate on Projects and Tech Articles 
 - 💬 Talk to me about All things JavaScript, opensource projects wherever it is hardware or software 
 
-<h3> Skills </h3>
+<h3> 🛠 Skills </h3>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
