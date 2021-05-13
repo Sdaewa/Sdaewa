@@ -1,6 +1,9 @@
 
 <h3> Oh, hey there! My name is Luis Ramirez ✌🏻</h3>
 
+<p>I have always been interested in technology, especially its under-the-hood workings. When I was young, I liked to take things apart, to try putting them back together. I am now interested in applying that same curiosity and problem-solving mindset to software engineering.
+I also have an interest in ethical hacking, prototyping electronics and 3D printing</p>
+
 
 - 👨🏼‍💻 I’m currently working on my Node.js and overall JavaScript skills 
 - 🌱 I’m currently learning Python, Docker and Kubernetes and basics of ethical hacking on Hack the Box
