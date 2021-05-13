@@ -8,7 +8,7 @@ I also have an interest in ethical hacking, prototyping electronics and 3D print
 - 👨🏼‍💻 I’m currently working on my Node.js and overall JavaScript skills 
 - 🌱 I’m currently learning Python, Docker and Kubernetes and basics of ethical hacking on Hack the Box
 - 👯 I’m looking to collaborate on Projects and Tech Articles 
-- 💬 Talk to me about All things JavaScript, opensource projects wherever it is hardware or software 
+- 💬 Talk to me about all things JavaScript, opensource projects wherever it is hardware or software 
 
 <h3> 🛠 Skills </h3>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
