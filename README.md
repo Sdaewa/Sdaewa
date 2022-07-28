@@ -1,11 +1,12 @@
 
 <h3> Oh, hey there! 👋🏻  My name is Luis Ramirez </h3>
 
-<p>I have always been interested in technology, especially its under-the-hood workings. When I was young, I liked to take things apart, to try putting them back together. I am now interested in applying that same curiosity and problem-solving mindset to software engineering.
-I also have an interest in ethical hacking, prototyping electronics and 3D printing</p>
+<p>Full Stack dev who primarily uses JavaScript Technologies across the whole stack. Very much interested in analytical and data-intensive web apps with backend API Systems.
+Having studied some telecom engineering and psychology, I have previously worked with one of my passions which is cycling and bikes. 
+Playing around with some Arduino and coding since 2015, I decided to take it seriously in 2019; that's when I graduated from LeWagon bootcamp in London. Since then I have been learning more, building a ton of projects, learning about the open-source community, exploring CyberSec, VMs, OSINT, Linux, etc.</p>
 
 
-- 👨🏼‍💻 Working on prototyping electronics using Node.js 
+- 👨🏼‍💻 Building Discord and Twitter bots 
 - 🌱 I’m currently learning Python, Docker and Kubernetes and basics of ethical hacking on Hack the Box
 - 👯 I’m looking to collaborate on Projects and Tech Articles 
 - 💬 Talk to me about all things JavaScript, opensource projects wherever it is hardware or software 
@@ -16,6 +17,7 @@ I also have an interest in ethical hacking, prototyping electronics and 3D print
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
