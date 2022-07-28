@@ -1,11 +1,9 @@
 
 <h3> Oh, hey there! 👋🏻  My name is Luis Ramirez </h3>
 
-<p>Full Stack dev who primarily uses JavaScript Technologies across the whole stack. Very much interested in analytical and data-intensive web apps with backend API Systems.
-Having studied some telecom engineering and psychology, I have previously worked with one of my passions which is cycling and bikes. 
-Playing around with some Arduino and coding since 2015, I decided to take it seriously in 2019; that's when I graduated from LeWagon bootcamp in London. Since then I have been learning more, building a ton of projects, learning about the open-source community, exploring CyberSec, VMs, OSINT, Linux, etc.</p>
+<p>Full Stack dev who primarily uses JavaScript Technologies across the whole stack. Very much interested in analytical and data-intensive web apps with backend API Systems.</p>
 
-
+- 🧭 Exploring CyberSec, VMs, OSINT, Linux
 - 👨🏼‍💻 Building Discord and Twitter bots 
 - 🌱 I’m currently learning Python, Docker and Kubernetes and basics of ethical hacking on Hack the Box
 - 👯 I’m looking to collaborate on Projects and Tech Articles 
