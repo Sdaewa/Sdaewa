@@ -5,7 +5,7 @@
 
 - 🧭 Exploring CyberSec, VMs, OSINT, Linux
 - 👨🏼‍💻 Building Discord and Twitter bots 
-- 🌱 I’m currently learning Python, Docker and Kubernetes and basics of ethical hacking on Hack the Box
+- 🌱 I’m currently learning some Python, Docker and ethical hacking on Hack the Box
 - 👯 I’m looking to collaborate on Projects and Tech Articles 
 - 💬 Talk to me about all things JavaScript, opensource projects wherever it is hardware or software 
 
