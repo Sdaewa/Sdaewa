@@ -1,7 +1,7 @@
 
 <h3> Oh, hey there! 👋🏻  My name is Luis Ramirez </h3>
 
-<p>Full Stack dev who primarily uses JavaScript Technologies across the whole stack. Very much interested in analytical and data-intensive web apps with backend API Systems.</p>
+<p>Full Stack dev who primarily uses JavaScript Technologies across the whole stack. I interested in analytical and data-intensive web apps with backend API Systems.</p>
 
 - 🧭 Exploring CyberSec, VMs, OSINT, Linux
 - 👨🏼‍💻 Building Discord and Twitter bots 
