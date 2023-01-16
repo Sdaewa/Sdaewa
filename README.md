@@ -1,13 +1,7 @@
 
-<h3> Oh, hey there! 👋🏻  My name is Luis Ramirez </h3>
+<h3> Hey there! 👋🏻</h3>
 
 <p>Full Stack dev who primarily uses JavaScript Technologies across the whole stack. I am interested in analytical and data-intensive web apps with backend API Systems.</p>
-
-- 🧭 Exploring CyberSec, VMs, OSINT, Linux
-- 👨🏼‍💻 Building Discord and Twitter bots 
-- 🌱 I’m currently learning some Python, Docker and ethical hacking on Hack the Box
-- 👯 I’m looking to collaborate on Projects and Tech Articles 
-- 💬 Talk to me about all things JavaScript, opensource projects wherever it is hardware or software 
 
 <h3> 🛠 Skills </h3>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -25,10 +19,10 @@
 <h3> 📈 My GitHub Stats </h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sdaewa&count_private=true&show_icons=true&theme=default" />
+<img align="left" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Sdaewa&count_private=true&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdaewa&theme=default" />
+<img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Sdaewa&theme=default" />
 </a>
 
 
