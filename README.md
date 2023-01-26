@@ -26,5 +26,5 @@
 </a>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sdaewa.Sdaewa)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sdaewa.Sdaewa) -->
 
