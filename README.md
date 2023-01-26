@@ -3,6 +3,8 @@
 
 <p>Full Stack dev who primarily uses JavaScript Technologies across the whole stack. I am interested in analytical and data-intensive web apps with backend API Systems.</p>
 
+<p>❌ Some of the web, embeded systems, security, 3D models, malvare repos that is achived here is for educational purposes ❌.</p>
+
 <h3> 🛠 Skills </h3>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/Sdaewa?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
